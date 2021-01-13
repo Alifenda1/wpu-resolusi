@@ -3,8 +3,11 @@ RENCANA KONTEN WPU
 -Java script
   *ES6
   *Framework
-   ^Angular
+   ^vue
    ^React
+-Fundamental data stusture
 -PHP
-   ^Laravel
+ *Laravel
 -Interview
+-Vlogs
+-Phyton
