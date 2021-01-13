@@ -3,5 +3,6 @@ RENCANA KONTEN WPU
 -Java script
   *ES6
   *Framework
+-Fundamental data stusture
 -PHP
 -Interview
